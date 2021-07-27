@@ -42,7 +42,7 @@ I beleve in life long learning and introduce myself to new technologies and ways
 
  #### Excellent communicator and collaborator.
 
-As a teacher, head of department and strategic ICT lead in a school I understand the importance of communication and collaboration to create efficient, inclusive and effective workplaces. In my self development I have sought out pair programming oppotunities through [chingu](https://chingu.io/) and Makers Academy free workshops. Pairing is a great way to develop and share knowledge, increase engagement within a team, and write the best quality code. I have also gained expericence working in a  Agile Team on [chingu voyages](https://chingu.io/) using zenhub and github projects.
+As a teacher, head of department and strategic ICT lead in a school I understand the importance of communication and collaboration to create efficient, inclusive and effective workplaces. In my self development I have sought out pair programming oppotunities through [chingu](https://chingu.io/) and Makers Academy free workshops. Pairing is a great way to develop and share knowledge, increase engagement within a team, and write the best quality code. I have also gained expericence working in a remote Agile Team on [chingu voyages](https://chingu.io/) using zenhub and github projects.
 
 #### Methodical approach to problem solving
 
