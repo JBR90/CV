@@ -7,12 +7,13 @@ I graduated from Brighton University with a BA in Music Production, I am current
 I am currently studying in my own time to bring my developer skills to a more professional level. I love the constant new challenges presented, researching and trying out new technologies, problem solving, learning design patterns and best code practice. I am looking for a job where I can continue to progress and learn from other more experienced developers.
 
 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**TwiterGram**](https://github.com/JBR90/twitergram)            | A responsive social media clone with authentication, a Twitter like feed and Instagram image grid.    | React, Firebase, Material UI, Framer Motion. |
-| **Pomodoro Todo** [*frontend*](https://github.com/JBR90/Pomodoro-Frontend)/ *[backend](https://github.com/JBR90/Pomodoro-Backend)* | A Pomodoro todo app with user authentication | React, Axios, Node.js, Express, Mongoose, MongoDB              |
+| [**Pomodoro Todo**](https://github.com/JBR90/Pomodoro-Frontend/blob/main/README.md) | A Pomodoro todo app with user authentication | React, Axios, Node.js, Express, Mongoose, MongoDB              |
 | [**Book Finder**](https://github.com/chingu-voyages/v30-toucans-team-02) | A [Chingu](https://chingu.io/) project working in an Agile team of 3. Book Finder App uses a MVC design pattern and fetches data via the google book API | JavaScript, Sass, Babel, Webpack, ES6 modules, async/await, and fetch API             |
 | [**Conquer template clone**](https://github.com/JBR90/Conquer_Clone) | A clone of ['Conquer Template'](https://www.free-css.com/free-css-templates/page196/conquer "Conquer Template") using HTML/CSS/JS without Bootstrap, jQuery, or other libraries. | JavaScript, HTML, CSS            |
 
