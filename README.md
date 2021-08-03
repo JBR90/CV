@@ -2,7 +2,7 @@
 
 I am a full stack developer looking for a role where I can continue to develop my learning and face new challenges in a collaborative environment.
 
-I graduated from Brighton University with a BA in Music Production, I am currently working as a head of department of Computer Science and the Strategic ICT lead within an Academy school and 6 form collage in East London.
+I graduated from Brighton University with a BA in Music Production, I am currently working as a head of department of Computer Science and the Strategic ICT lead within an Academy school and 6 form college in East London.
 
 I am currently studying in my own time to bring my developer skills to a more professional level. I love the constant new challenges presented, researching and trying out new technologies, problem solving, learning design patterns and best code practice. I am looking for a job where I can continue to progress and learn from other more experienced developers.
 
