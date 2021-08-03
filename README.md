@@ -38,7 +38,7 @@ https://www.freecodecamp.org/
 ## Skills
 
 #### Fast, independent learner
-I beleve in life long learning and introduce myself to new technologies and ways of working on a weekley basic. I have no formal training in Computer Science or web developement but have used online resources to develop my understanding through practical challenges and by teaching others. 
+I believe in life long learning and introduce myself to new technologies and ways of working on a weekly basis. I have no formal training in Computer Science or web development but have used online resources to develop my understanding through practical challenges and by teaching others. 
 
  #### Excellent communicator and collaborator.
 
