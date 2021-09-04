@@ -12,6 +12,7 @@ I am currently studying in my own time to bring my developer skills to a more pr
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Curious by Nature**](https://github.com/JBR90/curious-by-nature)            | A work in progress freelance project for local forest school. |React, Tailwind, Framer Motion
 | [**TwiterGram**](https://github.com/JBR90/twitergram)            | A responsive social media clone with authentication, a Twitter-like feed and Instagram image grid.    | React, Firebase, Material UI, Framer Motion. |
 | [**Pomodoro Todo**](https://github.com/JBR90/Pomodoro-Frontend/blob/main/README.md) | A Pomodoro 'to do' app with user authentication | React, Axios, Node.js, Express, Mongoose, MongoDB              |
 | [**Book Finder**](https://github.com/chingu-voyages/v30-toucans-team-02) | A [Chingu](https://chingu.io/) project working in an Agile team of 3. Book Finder App uses a MVC design pattern and fetches data via the google book API | JavaScript, Sass, Babel, Webpack, ES6 modules, async/await, and fetch API             |
