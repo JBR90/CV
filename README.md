@@ -2,9 +2,9 @@
 
 I am a full stack developer looking for a role where I can continue to develop my learning and face new challenges in a collaborative environment.
 
-I graduated from Brighton University with a first class honours degree in Music Production, I am currently working as a head of department of Computer Science and the Strategic ICT lead within an Academy school and 6 form college in East London.
+I graduated from Brighton University with a first class honours degree in Music Production. I am currently working as a head of department of Computer Science and the Strategic ICT lead within an Academy school and 6 form college in East London and as a freelance web developer.
 
-I am currently studying in my own time to bring my developer skills to a more professional level. I love the constant new challenges presented, researching and trying out new technologies, problem solving, learning design patterns and best code practice. I am looking for a job where I can continue to progress and learn from other more experienced developers.
+I am currently studying in my own time to make a career change to a full stack developer position. I love the constant new challenges presented, researching and trying out new technologies, problem solving, learning design patterns and best code practice. I am looking for a job where I can continue to progress and learn from other more experienced developers.
 
 
 
@@ -12,7 +12,7 @@ I am currently studying in my own time to bring my developer skills to a more pr
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Curious by Nature**](https://github.com/JBR90/curious-by-nature)            | A work in progress freelance project for local forest school. |React, Tailwind, Framer Motion
+| [**Curious by Nature**](https://github.com/JBR90/curious-by-nature)            | A work in progress freelance project for local forest school. |React, Redux, Tailwind, Framer Motion
 | [**TwiterGram**](https://github.com/JBR90/twitergram)            | A responsive social media clone with authentication, a Twitter-like feed and Instagram image grid.    | React, Firebase, Material UI, Framer Motion. |
 | [**Pomodoro Todo**](https://github.com/JBR90/Pomodoro-Frontend/blob/main/README.md) | A Pomodoro 'to do' app with user authentication | React, Axios, Node.js, Express, Mongoose, MongoDB              |
 | [**Book Finder**](https://github.com/chingu-voyages/v30-toucans-team-02) | A [Chingu](https://chingu.io/) project working in an Agile team of 3. Book Finder App uses a MVC design pattern and fetches data via the google book API | JavaScript, Sass, Babel, Webpack, ES6 modules, async/await, and fetch API             |
@@ -65,10 +65,9 @@ I am ranked 5 kyu on    [Codewars](https://www.codewars.com/users/JBR90)... I ha
 
 ## Employment History
 
-#### Electronic Music Producer, remixer, DJ -  (2016 - present)
+#### Freelance Web Developer  (2021 - present)
 
-- Releasing and remixing for renowned electronic music labels
-- Touring DJ and live performer
+- Developing websites with  React, TailWind, Redux, Node.js, Firebase, MongoDb
 
 #### Walthamstow Academy -  (2012 - present)
 
